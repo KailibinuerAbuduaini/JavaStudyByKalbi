@@ -5,7 +5,10 @@ import java.util.Scanner;
 public class Task_75 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		/*
+		 * Write a program that ask user to enter his/her firstname and lastname. Display in the
+          console total number of characters.
+		 */
 
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter your name:");

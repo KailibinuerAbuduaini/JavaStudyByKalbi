@@ -3,7 +3,7 @@ package Day014_Method;
 public class xxx {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//
 
 		cigarParty(64,true);
 	}

@@ -3,7 +3,7 @@ package Day009_controlFlowStatements_Part3;
 public class task39_trafficLightSelector {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 char color='r';
 		
 		switch(color) {

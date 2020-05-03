@@ -3,7 +3,7 @@ package Day014_Method;
 public class Task_65 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		calculateGrade(50,65,70);
 	}
 public static void calculateGrade(int x, int y,int z) {

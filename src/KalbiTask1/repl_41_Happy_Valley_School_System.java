@@ -17,7 +17,7 @@ import java.util.Scanner;
 public class repl_41_Happy_Valley_School_System {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		Scanner scan = new Scanner(System.in);
 
 		System.out.println("Enter age:");

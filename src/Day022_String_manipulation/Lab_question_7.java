@@ -4,7 +4,11 @@ public class Lab_question_7 {
 
 	public static void main(String[] args) {
 	
-	
+	/*
+	 * Given 2 strings, a and b, return a string of the form short+long+short,
+       with the shorter string on the outside and the longer string on the
+       inside
+	 */
 		
 		System.out.println(comboString("aaa","b"));
 		System.out.println(comboString("hi","Hello"));

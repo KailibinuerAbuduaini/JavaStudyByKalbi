@@ -3,7 +3,7 @@ package Day030_wrapper_class;
 public class Task_96 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		String str1 = "Today weather is sunny and 72 degree. It is a perfect day to practice java.";
 		String[] arr = str1.split("and ");
 		

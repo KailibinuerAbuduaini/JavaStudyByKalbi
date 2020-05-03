@@ -3,7 +3,10 @@ package Day022_String_manipulation;
 public class Lab_question_5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		/*
+		 * Given a string of even length, return the first half. So the string
+          "WooHoo" yields "Woo"
+		 */
 		 firstHalf("woohoo");
 		 firstHalf("");
 		System.out.println(firstHalf("woohoo"));

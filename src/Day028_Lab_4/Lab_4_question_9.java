@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Lab_4_question_9 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 int[]x= {1,2,3,4,5};
 System.out.println(Arrays.toString(x));
 	}

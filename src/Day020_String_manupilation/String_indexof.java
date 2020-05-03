@@ -3,7 +3,7 @@ package Day020_String_manupilation;
 public class String_indexof {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 
 		String word1="github";
 		System.out.println(word1.indexOf("g"));
@@ -20,14 +20,14 @@ public class String_indexof {
 		int dash=title.indexOf("-");
 		
 		System.out.println(dash);
-		
+	
 		System.out.println(title.charAt(dash-1));
 		System.out.println(title.charAt(dash+1));
 		System.out.println("Apple");
 		
 		String country="united state of america";
-		int states=country.indexOf("state");
-		System.out.println("position of states:"+states);
+		int state=country.indexOf("state");
+		System.out.println("position of states:"+state);
 		System.out.println("---------");
 		
 		String word2="java, c++,python,tomcat,eclipse";

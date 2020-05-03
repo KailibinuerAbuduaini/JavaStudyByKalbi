@@ -11,16 +11,22 @@ public class Task_1 {
 				{7,8,9},
 				{0}
 				
-				
-		};
-  for(int i=0;i<newNum.length;i++) {
-	  for(int j=0;j<newNum[i].length;j++) {
-		  System.out.print(newNum[i][j]);
-		  
-	  }
+				};
+		
+System.out.println(newNum[0][2]);
+
+System.out.println(newNum[2][2]);	
+		
+		/* for(int i=0;i<newNum.length;i++) {
+	   for(int j=0;j<newNum[i].length;j++) {
+		  System.out.print(newNum[i][j]);	  
+	     }
 	  System.out.println("");
-  }
-	 
+        }
+		 * 
+		 */
+ 
+	
 	}
 
 }

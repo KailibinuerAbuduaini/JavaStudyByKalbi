@@ -3,7 +3,7 @@ package Day013_Method;
 public class part_1_StudentMethod {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
           sayHello();
           code();
           study();

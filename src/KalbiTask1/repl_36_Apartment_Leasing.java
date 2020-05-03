@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class repl_36_Apartment_Leasing {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Welcome to Cybertek Apartments!");
 	    System.out.println("Number of bedrooms you are interested:");

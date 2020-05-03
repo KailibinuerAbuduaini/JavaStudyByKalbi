@@ -5,7 +5,7 @@ import java.util.Random;
 public class Task_85 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Random rn = new Random();
 
 		int computerDice;
@@ -13,7 +13,7 @@ public class Task_85 {
 		int computerPoints = 0;
 		int userPoints = 0;
 
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i <=10; i++) {
 
 			computerDice = rn.nextInt(6) + 1;
 			userDice = rn.nextInt(6) + 1;

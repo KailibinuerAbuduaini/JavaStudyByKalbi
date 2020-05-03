@@ -3,6 +3,7 @@ package Day023_StringManipulation;
 public class lab_question_11 {
 
 	public static void main(String[] args) {
+		//Return the number of times that the string "hi" appears anywhere in the given string
 		
 //	index number count from 0;
 //	length number count from 1;

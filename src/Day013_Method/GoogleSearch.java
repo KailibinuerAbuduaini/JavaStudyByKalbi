@@ -3,7 +3,7 @@ package Day013_Method;
 public class GoogleSearch {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		nevigateGoogle();
 		 searchShoes();
 		 PrintResult();

@@ -5,7 +5,17 @@ import java.util.Scanner;
 public class repl_50_Switch_Char {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		/*
+		 * Write a switch statement that tests the value of the char variable response and performs the following actions:
+          if response is y, the message Your request is being processed is printed
+          if response is n, the message Thank you anyway for your consideration is printed
+           if response is h, the message Sorry, no help is currently available is printed
+           for any other value of response, the message "Invalid entry, please try again!" is printed
+           
+           Create Scanner object.
+           Use charAt() method, 
+           in order to get the char value at the specified index. 
+		 */
 
 		   Scanner scan = new Scanner(System.in);
 		    System.out.println("Enter command:");

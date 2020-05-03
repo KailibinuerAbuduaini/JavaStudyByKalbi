@@ -3,7 +3,7 @@ package Day014_Method;
 public class LabQuestion {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		cigarParty(20,false);
 		deerPlay(95,false);
 		love6(3,1);
@@ -15,7 +15,7 @@ public class LabQuestion {
 		public static void cigarParty(int numberCigar,boolean isWekeend) {
 			
 			if(isWekeend) {
-				if(numberCigar<h40) {
+				if(numberCigar<40) {
 					System.out.println(true);
 				}else {
 					System.out.println(false);

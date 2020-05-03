@@ -3,8 +3,8 @@ package Day023_StringManipulation;
 public class lap_question_15_1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		String str = "badxx"; // 0 and 1
+	
+		String str = "xxbadxx"; // 0 and 1
 
 		// String str = "xbadxx";
 
@@ -12,7 +12,7 @@ public class lap_question_15_1 {
 
 		boolean flag = true;
 
-		for (int i = 0; i < 2; i++) {
+		for (int i = 0; i <2; i++) {
 
 			if (str.substring(i, i + 3).equals("bad")) {
 

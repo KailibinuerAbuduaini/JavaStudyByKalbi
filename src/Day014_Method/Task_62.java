@@ -3,7 +3,7 @@ package Day014_Method;
 public class Task_62 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//Write a method that accepts 3 numbers and displays the greatest one in the console.
 		calculateGreatest(7, 8, 9);
 	}
 

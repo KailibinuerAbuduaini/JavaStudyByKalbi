@@ -3,10 +3,10 @@ package Day015_rewiev;
 public class Task_70 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 	
 		
-int x = calculateHighScorePosition(500);
+int x = calculateHighScorePosition(40);
 		
 		displayHighScorePosition("Mike", x);
 

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PayArray {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		// This program stores in an array the hours worked for by 5 employees who all
 		// make the same hourly wage

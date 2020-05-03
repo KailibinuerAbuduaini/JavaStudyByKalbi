@@ -3,7 +3,7 @@ package Day027_two_dimentional_array;
 public class Task_95 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		int sum=0;
 		int[][]students={ {68,75,54,80},
 				          {100,64,20,50},

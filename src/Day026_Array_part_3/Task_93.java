@@ -1,9 +1,12 @@
 package Day026_Array_part_3;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class Task_93 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		String str =  "As he crossed toward the pharmacy at the corner he involuntarily turned his head"
                 +"because of a burst of light that had ricocheted from his temple,"
                 +" and saw, with that quick smile with which we greet a rainbow or a rose,"
@@ -14,8 +17,12 @@ public class Task_93 {
                 +"these boughs, this gliding façade.";
 		String[]array=str.split(" ");
 		
+		
+		
+		
 		System.out.println(array.length);
-		System.out.println(array[81]);
+		System.out.println(array[92]);
+		System.out.println("_________________________________________");
 		
 		for(String value:array) {
 			System.out.println(value);

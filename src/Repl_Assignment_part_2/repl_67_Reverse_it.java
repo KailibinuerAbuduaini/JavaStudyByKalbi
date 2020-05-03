@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class repl_67_Reverse_it {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 	    Scanner scan = new Scanner(System.in);
 	    String word = scan.next();
 	    if(word.length()==5) {

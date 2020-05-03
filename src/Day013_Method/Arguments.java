@@ -3,7 +3,7 @@ package Day013_Method;
 public class Arguments {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
      
 		int x=5;
 		disPlayValue(7);

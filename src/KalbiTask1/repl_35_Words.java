@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class repl_35_Words {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		Scanner s = new Scanner(System.in);
 		System.out.println("enter word1 and word2:");
 	    String word1 = s.next();

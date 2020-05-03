@@ -3,7 +3,7 @@ package Day020_String_manupilation;
 public class Task_80 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		checkedString("your order confirmation number is XYZ","confirmation");
 	}
 public static void checkedString(String str1,String str2) {

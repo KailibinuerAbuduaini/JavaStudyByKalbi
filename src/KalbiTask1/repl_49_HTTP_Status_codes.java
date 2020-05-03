@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class repl_49_HTTP_Status_codes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		 Scanner scan = new Scanner(System.in);
 		    System.out.println("Enter status code:");
 		    int status = scan.nextInt();

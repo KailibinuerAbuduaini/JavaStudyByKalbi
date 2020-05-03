@@ -3,8 +3,8 @@ package Day023_StringManipulation;
 public class lap_question_17 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		String str = "Taco cat";  //tac ocaT
+		
+		String str = "level";  //tac ocaT
 		
 		String dummy="";
 		
@@ -21,7 +21,7 @@ public class lap_question_17 {
 			
 			dummy = dummy + str.charAt(i);    // "" + m
 			                                  // m + a = ma
-			                                  // ma + d = mad
+			                                  // ma + m = mam
 		}//wow
 		
 		if(str.replace(" ", "").equalsIgnoreCase(dummy.replace(" ", ""))) {

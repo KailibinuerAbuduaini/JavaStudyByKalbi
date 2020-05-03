@@ -6,7 +6,8 @@ public class CellPhone_Object {
 		// TODO Auto-generated method stub
 		CellPhone cellPhone1=new CellPhone();
 		cellPhone1.brand="Apple";
-		cellPhone1.price=l300;
+	
+		cellPhone1.price=1300;
 		cellPhone1.color="red";
 		cellPhone1.call();
 		cellPhone1.message();

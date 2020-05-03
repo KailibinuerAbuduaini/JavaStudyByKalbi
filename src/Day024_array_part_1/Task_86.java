@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Task_86 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
          Scanner sc=new Scanner(System.in);
          
 		String[] months=new String[12];

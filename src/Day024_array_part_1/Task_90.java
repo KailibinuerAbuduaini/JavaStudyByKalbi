@@ -3,7 +3,7 @@ package Day024_array_part_1;
 public class Task_90 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		String[] cars = {"HONDA","BMW","TOYOTA", "NISSAN" };
 		
 		for (int i = 0; i < cars.length; i++) {

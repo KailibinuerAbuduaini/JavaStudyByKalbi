@@ -3,7 +3,13 @@ package Day019_String_manipulation;
 public class Task_77 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		/*
+		 * Create a emoji program:
+          1- Check if emoji has 2 characters. If it is not, print “invalid emoji”
+          2-Valid emojis:
+          Starting with : = > :) Smile, :( Sad, :/ Upset, :p Playful,Otherwise invalid
+          Starting with ; = > ;) Wink, ;0 Surprised, Otherwise invalid
+		 */
         String emoji=";)";
         
         if(emoji.length()!=2) {

@@ -3,7 +3,7 @@ package Day023_StringManipulation;
 public class lab_question_14_1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		String str = "oddsly"; // 4 6-2
 		// oddy 2 4-2
 		// ddd 1 3-2

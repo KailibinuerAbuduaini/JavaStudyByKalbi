@@ -3,7 +3,7 @@ package Day024_array_part_1;
 public class Task_90_ozzy {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		String[] cars = {"Honda", "Toyota", "Nissan", "BMW", "Mercedes", "Porsche", "Ferrari" };
 
 		boolean flag = false;

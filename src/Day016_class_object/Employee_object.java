@@ -3,7 +3,7 @@ package Day016_class_object;
 public class Employee_object {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
        Employee employee1=new Employee();
        Employee employee2=new Employee();
        Employee employee3=new Employee();

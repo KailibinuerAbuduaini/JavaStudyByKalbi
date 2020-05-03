@@ -3,7 +3,7 @@ package Day015_rewiev;
 public class Task_71 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 //		calcFeetAndInchesToCentimeters(30,360);
 //	}
 //	public static void calcFeetAndInchesToCentimeters(double feet,double inches) {

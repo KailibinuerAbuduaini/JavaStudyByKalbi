@@ -3,7 +3,7 @@ package Day013_Method;
 public class Task_61 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		calculateAge(1989);
 	}
     public static void calculateAge(int birth_year) {

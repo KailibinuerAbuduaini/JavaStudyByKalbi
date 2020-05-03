@@ -3,7 +3,7 @@ package Day019_String_manipulation;
 public class String_charAt {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
     String word="computer";
     System.out.println(word.length());
     System.out.println(word.indexOf("c"));

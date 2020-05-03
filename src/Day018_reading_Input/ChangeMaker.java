@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ChangeMaker {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
       //Enter a whole number from 1-99,and i will find a combination of coins that equals that amount of
 		//change
 		//quarter:25 cents;

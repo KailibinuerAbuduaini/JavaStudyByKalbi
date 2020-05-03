@@ -3,9 +3,11 @@ package Day018_reading_Input;
 import java.util.Scanner;
 
 public class Task_72 {
+	
+	//Write a program that ask user to enter 3 numbers and shows the total of numbers.
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
     Scanner sc=new Scanner(System.in);
     
     System.out.println("enter first number:");

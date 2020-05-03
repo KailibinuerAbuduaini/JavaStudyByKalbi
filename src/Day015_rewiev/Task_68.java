@@ -3,7 +3,13 @@ package Day015_rewiev;
 public class Task_68 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		/*
+		 * Write two methods:
+          1-calculateAge(yearBirth); and returns the age
+          2-yearsUntilRetirement(name,year); and displays in the console following: “Mike retires in 36 years”
+         Example: yearsUntilRetirement(“Mike”,1990)
+		 */
+		
 		
 		yearsUntilRetirement("Mike",1950);
 			}

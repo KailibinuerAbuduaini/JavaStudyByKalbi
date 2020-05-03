@@ -3,7 +3,7 @@ package Day015_rewiev;
 public class Method_overloading2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
     System.out.println(sum(2,3,6));  
 		
 		int x = sum(10, 20, 30, 40);

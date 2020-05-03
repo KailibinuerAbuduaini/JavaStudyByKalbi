@@ -3,9 +3,9 @@ package Day019_String_manipulation;
 public class String_concat {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
-String word = "Java";
+        String word = "Java";
 		
 		System.out.println(word.concat("+selenium"));
 		System.out.println(word.concat(" in eclipse"));

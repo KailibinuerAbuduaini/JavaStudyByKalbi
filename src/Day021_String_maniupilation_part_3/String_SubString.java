@@ -3,7 +3,7 @@ package Day021_String_maniupilation_part_3;
 public class String_SubString {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		//substring 0 din baxlap sanaymiz;
 		//length 1 din baxlap sanaymiz

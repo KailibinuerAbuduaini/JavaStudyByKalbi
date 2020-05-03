@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class repl_121_Arrays_Printshortest_word_2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		 Scanner scan = new Scanner(System.in);
 		 
 		 

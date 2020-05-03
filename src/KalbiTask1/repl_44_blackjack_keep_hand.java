@@ -18,7 +18,20 @@ import java.util.Scanner;
 public class repl_44_blackjack_keep_hand {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
+		/*
+		 * in blackjack after the player asks to keep the house 4 things may happen.
+
+        1) if the card total is bigger then 21 the player busts.
+        2)if the house score is bigger then the player, the player loses .
+        3)if the player score is equal to the house then they are a draw.
+        4)if the player score is bigger then the house the player wins.
+
+        player and house scores are represented by  player and house int variables.
+
+          check them using ifs to determine the result.
+
+		 */
 		 Scanner s = new Scanner(System.in);
 		     
 		    int house = s.nextInt();

@@ -30,7 +30,12 @@ import java.util.Scanner;
 public class repl_43_Find_Mid_Number {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		/*
+		 * Write a program that will return mid number out of three numbers.  No need to do any calculations.
+           Steps to write a program:
+           Create an object of Scanner class. 
+           Declare int 3 variables: num1, num2, num3.
+		 */
 
 		
 		Scanner scan=new Scanner(System.in); 

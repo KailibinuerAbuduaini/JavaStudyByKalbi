@@ -3,7 +3,7 @@ package Day014_Method;
 public class maxiq_68 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		ClculateAge(1989);
 		System.out.println("you are "+ClculateAge(1989)+" years old.");
 		YearsUntilRetirement("kelly", 50);

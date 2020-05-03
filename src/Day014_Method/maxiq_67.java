@@ -3,7 +3,7 @@ package Day014_Method;
 public class maxiq_67 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		if( sameDigit(17,27)) {
 			System.out.println("same");
 		}else{

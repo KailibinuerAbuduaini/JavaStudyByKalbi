@@ -3,7 +3,7 @@ package Day008_controlFlowStatements_Part2;
 public class quiz {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 	boolean b1=false;
 	boolean b2=false;
 	if(b2!=(b1=!b2)) {

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class repl_30_Seconds_Converter {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 //		Write a program that outputs the number of hours, minutes, and seconds that
 //		corresponds to input total seconds. 
 		Scanner scan=new Scanner(System.in);
@@ -19,6 +19,7 @@ public class repl_30_Seconds_Converter {
 		 
 	 System.out.println(hour+" hours, "+minute+" minutes, " + " and "+second+" seconds");
 		
+	 
 		
 	}
 

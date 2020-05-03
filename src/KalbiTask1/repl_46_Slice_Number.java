@@ -5,10 +5,13 @@ import java.util.Scanner;
 public class repl_46_Slice_Number {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-  Scanner sc=new Scanner(System.in);
-  System.out.println("Enter your number:");
-	  int	n1=sc.nextInt();
+		/*
+		 * In this task, you need to slice an integer and print numbers one by one from new line.
+          Create a scanner object
+		 */
+           Scanner sc=new Scanner(System.in);
+            System.out.println("Enter your number:");
+	         int n1=sc.nextInt();
 	  
 
 		int digit1=n1/10000;

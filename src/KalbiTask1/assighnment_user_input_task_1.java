@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class assighnment_user_input_task_1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		
 //		Question-1
 //		Write a program with a loop that lets the user enter a series of integer numbers. 
